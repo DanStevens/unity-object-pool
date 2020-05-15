@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace MonsterLove.Collections
+namespace ObjectPooling
 {
 	public class ObjectPool<T>
 	{

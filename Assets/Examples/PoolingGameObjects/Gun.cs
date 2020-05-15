@@ -1,4 +1,5 @@
 using UnityEngine;
+using ObjectPooling;
 using System.Collections;
 
 public class Gun : MonoBehaviour
